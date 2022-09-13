@@ -1,6 +1,6 @@
 
 
-# cours particuliers / private tutoring
+
 
 contact: 
 <br />
