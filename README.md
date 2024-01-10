@@ -1,4 +1,5 @@
 
 
+(switching to reactjs)
 
-(Work in progress)
+(see for ex : https://blog.logrocket.com/deploying-react-apps-github-pages/)
